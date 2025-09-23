@@ -32,3 +32,16 @@ Postman, Jira, Visual Studio Code, entre otras.
 
 **Reflexión sobre lo aprendido:**  
 Durante esta experiencia he tenido la oportunidad de utilizar múltiples herramientas que antes no había explorado, como AWS, lo que amplió mis conocimientos técnicos. Además, trabajar dentro de una célula ágil me permitió comprender y participar en las distintas ceremonias, colaborando activamente con desarrolladores y otros roles del equipo.
+
+### 📌 Proyecto 2: Automatización para BCH
+**Descripción:**  
+En mi trabajo anterior participé en diversos proyectos de automatización de casos de prueba para el Banco de Chile. A partir de pruebas manuales, desarrollé y ejecuté scripts automatizados que permitieron validar la calidad del producto de forma más eficiente y confiable.
+
+**Objetivos:**  
+- Garantizar la calidad de los distintos productos del banco mediante la implementación y ejecución de pruebas automatizadas, contribuyendo a entregas más eficientes y confiables.
+
+**Tecnologías utilizadas:**  
+Jira, Git, Selenium, Appium, Intellij, Java.
+
+**Reflexión sobre lo aprendido:**  
+Durante esta experiencia aprendí a automatizar casos de prueba desde cero, adquiriendo una visión completa del flujo de trabajo del área de calidad en un entorno bancario.
