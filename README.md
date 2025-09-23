@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Durán
 
-<!--
-**VioletDuran/VioletDuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Breve presentación -->
+Soy Ingeniero en Informática titulado de la PUCV. Actualmente me desempeño como QA Automatizador en una startup, donde realizo tanto pruebas manuales como automatizadas.
+Me apasiona el ámbito de la calidad de software, asegurando entregas con altos estándares y aportando mi experiencia, dedicación y curiosidad para mejorar continuamente los procesos.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Algunas de mis habilidades:  
+- 💻 [Lenguajes / Tecnologías principales]: 
+  -  Selenium
+  -  Postman
+  -  Java
+  -  Git
+  -  Appium
+  -  Web Scrapping
+- 📊 [Intereses profesionales] :
+  - Mi interés profesional se centra en ampliar constantemente mis conocimientos en informática, ya que considero que una visión integral en distintas áreas me fortalece como QA y me permite aportar mayor valor a los proyectos.
