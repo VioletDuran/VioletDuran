@@ -45,3 +45,16 @@ Jira, Git, Selenium, Appium, Intellij, Java.
 
 **Reflexión sobre lo aprendido:**  
 Durante esta experiencia aprendí a automatizar casos de prueba desde cero, adquiriendo una visión completa del flujo de trabajo del área de calidad en un entorno bancario.
+
+### 📌 Proyecto 3: Web Scrapping
+**Descripción:**  
+Durante mi búsqueda de trabajo realicé un proyecto de Web Scraping como freelance para una empresa, cuyo objetivo era obtener y procesar datos de boletas electrónicas de manera automática.
+
+**Objetivos:**  
+- Obtener los valores de distintos clientes de un servicio de aguas.
+
+**Tecnologías utilizadas:**  
+Postman, Selenium, Python, Git.
+
+**Reflexión sobre lo aprendido:**  
+Durante este proyecto pude fortalecer y perfeccionar mis habilidades en Selenium y Postman, ya que fue necesario utilizar estas tecnologías para dar solución al problema planteado.
